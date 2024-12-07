@@ -14,8 +14,8 @@ print_params(b='правда')
 print_params(c='триста тридцать три')
 print_params()
 
-#print_params(b = 25)
-#print_params(c = [1, 2, 3])
+print_params(b = 25)
+print_params(c = [1, 2, 3])
 
 values_list = [65, 'Moskau', 5]
 values_dict = {'a': 99, 'b': '"истина где-то рядом"', 'c': 68}
